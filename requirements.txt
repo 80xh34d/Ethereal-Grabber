@@ -2,4 +2,5 @@ discord-webhook
 psutil
 pycryptodome
 pypiwin32
+pyzipper
 requests
