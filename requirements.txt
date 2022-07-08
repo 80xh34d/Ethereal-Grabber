@@ -1,0 +1,5 @@
+discord-webhook
+psutil
+pycryptodome
+pypiwin32
+requests
